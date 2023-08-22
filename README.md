@@ -15,4 +15,6 @@ Git documentation worksheet and US Bikeshare.py
 Udacity Nanodegree program 
 Hunter Sparrow 
 
+### The required files for running this program are:
 
+washington.csv new_york_city.csv chicago.csv
