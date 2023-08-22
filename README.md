@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 ### Date 
 August 21st 2023 
 
 ### Project 3
 Post work to Github 
+=======
+### August 21st 2023 
+>>>>>>> 0db8330addfbc06f4b71432aa908dcedd055d974
 
 
 ### Description
