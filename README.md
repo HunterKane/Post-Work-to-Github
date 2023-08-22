@@ -16,6 +16,3 @@ Udacity Nanodegree program
 Hunter Sparrow 
 
 
-
-
-
